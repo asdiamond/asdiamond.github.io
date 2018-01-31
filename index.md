@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Download My Resume](resume.pdf).
+[Download My Resume](resume.pdf)
+
+[View in markdown](resume)
 
 There should be whitespace between paragraphs.
 
