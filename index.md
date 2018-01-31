@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](another-page).
+[Download My Resume](another-page).
 
 There should be whitespace between paragraphs.
 
@@ -33,6 +33,8 @@ In Major GPA: 4.0
 https://github.com/asdiamond
 
 https://www.linkedin.com/in/asdiamond/
+
+
 
 
 ## [](#header-2)Header 2
