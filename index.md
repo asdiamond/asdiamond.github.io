@@ -8,11 +8,32 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# [](#header-1)Nice to Meet You!
 
-# [](#header-1)Header 1
+I have been a researcher with Robust Autonomic Systems since my freshman year at UTEP researching into new paradigms for cache management.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+As a house representative in UTEP student government I brought more attention to our Computer Science program by hosting weekly Cyber security events on campus.
+
+Technical Skills:
+
+Basic Knowledge: Bootstrap, VMWare, front-end web development, back-end PHP scripting
+
+Intermediate Knowledge: Kotlin, HTML scraping (regex and scripted), Android development, python, C++
+
+Advanced Knowledge: Java 8, Bash, git, and C.
+
+Relevant Courses I have taken:
+
+Data Structures, Computabilty/Automata theory, Computer Architecture 1, Advanced Object Oriented Programming, and Design and Implementation of Programming Languages.
+
+Expected graduation date: December 2020
+Cumulative GPA: 4.0
+In Major GPA: 4.0
+
+https://github.com/asdiamond
+
+https://www.linkedin.com/in/asdiamond/
+
 
 ## [](#header-2)Header 2
 
