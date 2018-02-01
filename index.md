@@ -2,13 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Download My Resume](resume.pdf)
 
-[View in markdown](resume)
+[View My Resume in Markdown](resume)
 
-There should be whitespace between paragraphs.
+
 
 # [](#header-1)Nice to Meet You!
 
@@ -39,13 +37,13 @@ https://www.linkedin.com/in/asdiamond/
 
 
 
-## [](#header-2)Header 2
+## [](#header-1)Recognitions/Awards/Presentations
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### [](#header-1)Sample Projects
 
 ```js
 // Javascript code with syntax highlighting.
@@ -62,11 +60,12 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4
+#### [](#header-1)Other Experience
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Work experience
+*   Educational experience
+*   Writing and communications skills
+*   Computer Experience/Other Tools
 
 ##### [](#header-5)Header 5
 
