@@ -37,13 +37,13 @@ https://www.linkedin.com/in/asdiamond/
 
 
 
-## [](#header-1)Recognitions/Awards/Presentations
+# [](#header-1)Recognitions/Awards/Presentations
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-1)Sample Projects
+# [](#header-1)Sample Projects
 
 ```js
 // Javascript code with syntax highlighting.
@@ -60,7 +60,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-1)Other Experience
+# [](#header-1)Other Experience
 
 *   Work experience
 *   Educational experience
