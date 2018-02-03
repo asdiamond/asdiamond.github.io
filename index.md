@@ -30,9 +30,9 @@ Expected graduation date: December 2020
 Cumulative GPA: 4.0
 In Major GPA: 4.0
 
-https://github.com/asdiamond
+[My Github](https://github.com/asdiamond)
 
-https://www.linkedin.com/in/asdiamond/
+[My LinkedIn](https://www.linkedin.com/in/asdiamond/)
 
 
 
@@ -49,24 +49,23 @@ https://www.linkedin.com/in/asdiamond/
 
 Here are links to several of my projects on github.
 
-https://github.com/asdiamond/cache_csharp
 
-An lru cache I used to track object usage.
 
-https://github.com/asdiamond/sudoku
+[An lru cache I used to track object usage.](https://github.com/asdiamond/cache_csharp)
 
-A sudoku game I have been working on.
+[A sudoku game I have been working on.](https://github.com/asdiamond/sudoku)
 
-https://github.com/asdiamond/CodeMineProject1
-
-An old android app.
+[An android app](https://github.com/asdiamond/CodeMineProject1)
 
 
 # [](#header-1)Other Experience
 
 *   Freelance tutor for math and programming
+
 *   Proficient in microsoft office
+
 *   Python/C# experience
+
 *   PHP experience
 
 
