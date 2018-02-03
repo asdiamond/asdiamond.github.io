@@ -68,4 +68,6 @@ Here are links to several of my projects on github.
 
 *   PHP experience
 
+*   Taking Advanced Object Oriented Programming and Design and Implementation of Programming Languages
+
 
