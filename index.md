@@ -55,7 +55,7 @@ Here are links to several of my projects on github.
 
 [A sudoku game I have been working on.](https://github.com/asdiamond/sudoku)
 
-[An android app](https://github.com/asdiamond/CodeMineProject1)
+[An android app.](https://github.com/asdiamond/CodeMineProject1)
 
 
 # [](#header-1)Other Experience
