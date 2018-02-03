@@ -39,32 +39,34 @@ https://www.linkedin.com/in/asdiamond/
 
 # [](#header-1)Recognitions/Awards/Presentations
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*   I have been recognized as an inaugural leader in the UTEP Student Government house of representatives.
+
+*   I have also been on the Deans List of Distinguished students every semester at UTEP.
+
+*   Given presentations/workshop on: bash, C programming, emacs, MSP430 assembly
 
 # [](#header-1)Sample Projects
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Here are links to several of my projects on github.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+https://github.com/asdiamond/cache_csharp
+
+An lru cache I used to track object usage.
+
+https://github.com/asdiamond/sudoku
+
+A sudoku game I have been working on.
+
+https://github.com/asdiamond/CodeMineProject1
+
+An old android app.
+
 
 # [](#header-1)Other Experience
 
-*   Work experience
-*   Educational experience
-*   Writing and communications skills
-*   Computer Experience/Other Tools
+*   Freelance tutor for math and programming
+*   Proficient in microsoft office
+*   Python/C# experience
+*   PHP experience
 
 
