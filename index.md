@@ -4,9 +4,8 @@ layout: default
 
 [Download My Resume](resume.pdf)
 
-[View My Resume in Markdown](resume)
 
-
+[//]: # ([View My Resume in Markdown](resume))
 
 # [](#header-1)Nice to Meet You!
 
@@ -39,11 +38,9 @@ In Major GPA: 4.0
 
 # [](#header-1)Recognitions/Awards/Presentations
 
-*   I have been recognized as an inaugural leader in the UTEP Student Government house of representatives.
+*   Deans List of Distinguished students 
 
-*   I have also been on the Deans List of Distinguished students every semester at UTEP.
-
-*   Given presentations/workshop on: bash, C programming, emacs, MSP430 assembly
+*   Given presentations/workshops on: bash, C programming, emacs, MSP430 assembly
 
 # [](#header-1)Sample Projects
 
@@ -51,9 +48,9 @@ Here are links to several of my projects on github.
 
 
 
-[An lru cache I used to track object usage.](https://github.com/asdiamond/cache_csharp)
+[A simulation of a usage based cache running on firefox logs.](https://github.com/asdiamond/cache.tests)
 
-[A sudoku game I have been working on.](https://github.com/asdiamond/sudoku)
+[A P2P multiplayer (and single player) sudoku game.](https://github.com/asdiamond/sudoku)
 
 [An android app.](https://github.com/asdiamond/CodeMineProject1)
 
@@ -62,12 +59,7 @@ Here are links to several of my projects on github.
 
 *   Freelance tutor for math and programming
 
-*   Proficient in microsoft office
-
 *   Python/C# experience
 
 *   PHP experience
-
-*   Taking Advanced Object Oriented Programming and Design and Implementation of Programming Languages
-
 

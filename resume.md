@@ -4,10 +4,6 @@
 
 **diamondaleksandr@gmail.com**
 
-**PROFILE**
-
- Motivated student in search of an internship position to better myself.
-
 # EDUCATION
 
 University of Texas at El Paso
@@ -59,5 +55,5 @@ Computer Architecture, Design of Programming Languages, Advanced Object-Oriented
 
 Technical Skills
 
-- Java 8, Android Development, Kotlin, Python, Bash, sh scripting, C, C++
+- Java, Android Development, Kotlin, Python, Bash, sh scripting, C, C++
 
